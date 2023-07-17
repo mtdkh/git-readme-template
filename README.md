@@ -7,9 +7,6 @@ text
 * list1 ver***
 * list2 ver***
 
-## Features
-text
-
 ## Usage
 text
 
